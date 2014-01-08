@@ -1,0 +1,16 @@
+{
+  "name": "hwbud2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/KelWill/hwbud2",
+  "authors": [
+    "Will Keleher <will.keleher@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
